@@ -1,5 +1,20 @@
 title	type	url_slug	venue	date	location	talk_url	description
-Talk 1 on Relevant Topic in Your Field	Talk	talk-1	UC San Francisco, Department of Testing	2012-03-01	San Francisco, California		This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Tutorial 1 on Relevant Topic in Your Field	Tutorial	tutorial-1	UC-Berkeley Institute for Testing Science	2013-03-01	Berkeley CA, USA	http://exampleurl.com	This is a description of your tutorial, note the different field in type. This is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Talk 2 on Relevant Topic in Your Field	Talk	talk-2	London School of Testing	2014-02-01	London, UK	http://example2.com	This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Conference Proceeding talk 3 on Relevant Topic in Your Field	Conference proceedings talk	talk-3	Testing Institute of America 2014 Annual Conference	2014-03-01	Los Angeles, CA		This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
+Pharmacokinetics at extremes of weight	Talk	talk-1	Royal College of Anaesthetists Updates day	2019-06-21	Bristol		"This talk as part of the RCoA updates series covered issues in pharmacokinetics at extremes of weight, including approaches to TCI, TIVA, and recent guidelines for drug dosing. "
+"Hyperoxia on Intensive care, Too much of a good thing?"	Poster	talk-2	Intensive Care Society State of the Art meeting	2018-12-10	London		"This poster presentation of a baseline audit covered the incidence of hyperoxia, and issues of prescribing and monitoring Oxygen delivery on the intensive care unit"
+What has research ever done for me? 	Talk	talk-3	MERCAT study day	2018-10-26	Derby		"This was a talk given as part of the regional research education day, to a trainee and consultant audience about life as a trainee anaesthetist with a research background"
+Meeting the needs of trainees through online communication and collaboration tools.	Poster	talk-4	Royal College of Anaesthetist College tutor meeting	2018-06-14	Leeds		This was a poster presented at the RCoA college tutors day on our experiences of using Office 365
+"Support for Educational Supervisors, audit results"	Poster	talk-5	East Midlands School of Anaesthesia Winter Scientific Meeting 2014	2014-12-12	Nottingham		
+Simulation-based training for critical care nurses in a cardiac intensive care unit: the development of non-technical skills in critical care	Poster	talk-6	European Society of Intensive Care Medicine	2013-10-09	Milan		
+Moodle: beyond the basics.	Workshop	talk-7	East Midlands LETB VLE Development Day	2013-03-22	Nottingham		
+"Mentoring: An old head on new shoulders,"	Talk	talk-8	 London Deanery Coaching and Mentoring Conference	2012-02-02	London		
+Student detection of errors in examinations.	Talk	talk-9	ASME	2011-07-01	Edinburgh		
+To Err is Human.	Talk	talk-10	Ottawa Medical Education meeting	2010-05-01	Miami		
+Re-audit of the management of sepsis in the Emergency Department	Talk	talk-11	UHL Audit meeting	2009-12-11	Leicester		
+Reaudit of protective lung ventilator strategies within UHL	Talk	talk-12	UHL Audit meeting	2009-11-06	Leicester		
+The 5-step e-learning model to complement face-to-face teaching of clinical undergraduate medical students	Poster	talk-13	eLearning in Health conference	2009-07-16	Warwick		
+Evaluating e-learning to teach undergraduate airway management	Poster	talk-14	ASME	2008-09-11	Leicester		
+Pharmacological characterisation of a novel series of peptides acting at opioid receptors. 	Poster	talk-15	Anaesthetic research society	2008-01-01	London		
+Designing a teaching program to benefit medical students and junior doctors.	Poster	talk-16	Leicester Northamptonshire and Rutland Academic showcase	2007-07-20	Leicester		
+Identification and characterisation of small molecule peptoid opioid receptor ligands. 	Talk	talk-17	Health Foundation Intercalated BSc seminars	2004-06-01	London		
+Receptor binding studies on novel ligands for the delta and mu opioid receptors.  	Talk	talk-18	International Student Congress of the Medical Sciences	2004-06-01	Holland		
+"No pain, no gain? Examining new analgesics. "	Talk	talk-19	" St Cyres Comprehensive School, Biomedical Sciences Day"	2004-06-01	Cardiff		
