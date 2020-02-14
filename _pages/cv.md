@@ -104,13 +104,15 @@ My clinical experience has included
 
 #### Current Employment
 
-February 2019-August 2019: ST7 Anaesthetist (0.5FTE, 3 months FTE), Northampton General Hospital NHS Trust
+February 2020-present: Locum Consultant in Anaesthesia and Intensive Care Medicine, Leicester Royal Infirmary
 
 January 2015-present: Clinical Lecturer in Anaesthesia and Intensive Care, Department of Cardiovascular Sciences, University of Leicester
 
 #### Previous Employment
 
 + ST7 (0.5 FTE) - Anaesthesia
+	- August 2019-February 2020	General Duties, Leicester General Hospital
+	- February 2019-August 2019	General Duties, Northampton General Hospital NHS Trust
 	- August 2018-February 2019 	General Duties, University Hospitals of Leicester NHS Trust
 	- February 2018-July 2018	General Duties, Nottingham University Hospitals NHS Trust
 	- November 2017-February 2018 	General Duties, Leicester Royal Infirmary
@@ -240,7 +242,7 @@ In experience of clinical management, my advanced ITU year gave me experience of
 
 #### Experience
 
-*	Chair (2018-present), and Secretary (2015-2018) of East Midlands Group of Anaesthetists in Training (EMGAT)
+*	Chair (2018-2019) and Secretary (2015-2018) of East Midlands Group of Anaesthetists in Training (EMGAT)
 *	Seizures on critical care guideline (Nottingham University Hospitals NHS Trust) (2015)
 *	VLE Development Day, East Midlands School of Anaesthesia, Nottingham (2013)
 
@@ -266,8 +268,11 @@ During my time at the Royal Derby Hospital I completed a quality improvement pro
 Other local audits that I have completed throughout my training include audit (and reaudit) of trainee workload out of hours with a focus on patient safety and time to see critically ill patients, an audit of daily care bundle implementation on the intensive care unit and a reaudit of ventilator care bundles.  My experiences of these projects have exposed me to the breadth of quality improvement activities, from initial conception, and data gathering, through to the (challenges associated with) implementation and change management, evaluation and presentation.  
 
 #### Summary of audit and quality improvement experience
-
-* Management of Oxygen on the Intensive Care Unit, Leicester Royal Infirmary (2017-present)
+* Cappuccini audit of trainee supervision, University Hospitals of Leicester NHS Trust (2019-present)
+	- Led this audit as part of work towards ACSA accreditation
+	- Baseline to establish levels of supervision of nonconsultant anaesthetists
+	- Ongoing quality improvement methodology in order to improve training opportunities and ensure governance
+* Management of Oxygen on the Intensive Care Unit, Leicester Royal Infirmary (2017-2020)
 		- Developed audit to evaluate target setting and titration of Oxygenation on a mixed general intensive care unit
 	-	Managed data collection and analysis
 	-	Presented locally and nationally
