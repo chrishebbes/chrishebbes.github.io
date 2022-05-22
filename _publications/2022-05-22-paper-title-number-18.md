@@ -10,4 +10,4 @@ citation: 'Bird MF, Hebbes CP, Scott SWM, Wilets J, Thompson JP, Lambert DG. A N
 
 <a href=''>Download paper here</a>
 
-Recommended citation: Hebbes CP. Pharmacological modulation of cardiac function and blood vessel calibre. Anaesthesia & Intensive Care Medicine. 2018;12:648-55 
+Recommended citation: Bird MF, Hebbes CP, Scott SWM, Wilets J, Thompson JP, Lambert DG. A Novel Bioassay to Detect Nociceptin/Orphanin FQ Release from Single Human Polymorphonuclear Cells. PLOS One. 2022 (In press)
