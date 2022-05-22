@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ##### Dr Christopher P. Hebbes 
-##### MBChB BSc MMedSci (Medical Education) FRCA FFICM
+##### MBChB BSc MMedSci (Medical Education) PhD FRCA FFICM
 
 * * *
 > Joint anaesthetist and intensivist with experience and a track record in medical education, clinical research and data science and developing expertise in point of care echocardiography and ultrasound.  I have furthered my academic experience by undertaking additional study to gain an intercalated BSc in opioid pharmacology, MMedSci in Medical Education and PhD in cardiovascular sciences.  These additional skills in project management and delivery, data sciences and informatics have been invaluable in managing clinical projects, audit and quality improvement.
