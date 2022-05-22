@@ -13,7 +13,7 @@ redirect_from:
 ##### MBChB BSc MMedSci (Medical Education) FRCA FFICM
 
 * * *
-> Joint anaesthetist and intensivist with experience and a track record in medical education, clinical research and data science and developing expertise in point of care echocardiography and ultrasound.  I have furthered my academic experience by undertaking additional study to gain an intercalated BSc in opioid pharmacology, MMedSci in Medical Education and am currently working towards a PhD.  These additional skills in project management and delivery, data sciences and informatics have been invaluable in managing clinical projects, audit and quality improvement.
+> Joint anaesthetist and intensivist with experience and a track record in medical education, clinical research and data science and developing expertise in point of care echocardiography and ultrasound.  I have furthered my academic experience by undertaking additional study to gain an intercalated BSc in opioid pharmacology, MMedSci in Medical Education and PhD in cardiovascular sciences.  These additional skills in project management and delivery, data sciences and informatics have been invaluable in managing clinical projects, audit and quality improvement.
 > I have a wide range of experience across clinical specialties, and particularly enjoy the challenges of acute care, emergency and vascular anaesthesia.
 
 * * *
@@ -21,9 +21,11 @@ redirect_from:
 #### Education
 
 ##### Postgraduate
+* PhD (Cardiovascular Sciences), University of Leicester		2021
 * Fellowship of the Faculty of Intensive Care Medicine			2017
 * Fellowship of the Royal College of Anaesthetists				2013 
 * MMedSci (Medical Education), University of Nottingham, Distinction	2011
+
 
 ##### Undergraduate
 * MBChB with Honours, University of Leicester				2000-2006
@@ -103,13 +105,13 @@ My clinical experience has included
 ### Career summary
 
 #### Current Employment
-
-February 2020-present: Locum Consultant in Anaesthesia and Intensive Care Medicine, Leicester Royal Infirmary
+June 2020-Present: Consultant in Anaesthesia and Intensive Care Medicine, Leicester Royal Infirmary
 
 January 2015-present: Clinical Lecturer in Anaesthesia and Intensive Care, Department of Cardiovascular Sciences, University of Leicester
 
 #### Previous Employment
-
++ February 2020-June 2020: Locum Consultant in Anaesthesia and Intensive Care Medicine, Leicester Royal Infirmary
++ 
 + ST7 (0.5 FTE) - Anaesthesia
 	- August 2019-February 2020	General Duties, Leicester General Hospital
 	- February 2019-August 2019	General Duties, Northampton General Hospital NHS Trust
@@ -156,7 +158,10 @@ February 2015-July 2015 (0.5 FTE)	Cardiothoracic anaesthesia, Glenfield Hospital
 	- April 2007 – July 2007	General Medicine, Elderly Care, Lincoln County Hospital
 
 #### Additional Roles
-*	East Midlands Group of Anaesthetists in Training (EMGAT), Chair (2018-present), Secretary (2015-2018)
+*	Principle Investigator for UKROX (Leicester Royal Infirmary)
+*	Educational Supervisor
+*	FUSIC Heart mentor
+*	East Midlands Group of Anaesthetists in Training (EMGAT), Chair (2018-2020), Secretary (2015-2018)
 *	Honorary Clinical Lecturer, University of Leicester (2015-present)
 *	Personal Tutor, University of Leicester (2008-2014)
 *	Honorary Education Fellow, University of Leicester (2008-2010)
@@ -207,12 +212,12 @@ I have a longer-term interest in Free Open Access Medical Education (FOAMED), th
 ### Research
 I have had additional time and training in research and have had the opportunity to learn about and use a variety of qualitative and quantitative methodologies, laboratory and clinical research.  My training has included a formal research methods courses, and in-house research and statistics training gained through my intercalated BSc (in opioid pharmacology), MMedSci, and PhD.
 
-I am working towards a PhD using basic science methods to investigate the release of the peptide nociceptin from immune cells in sepsis.  I gained a variety of technical lab skills during the implementation phase of this project, which latterly won funding from the Royal College of Anaesthetists Ernest Leech Fund, and gained portfolio sponsorship.  As a translational project, this gave me a bridge to clinical research, and the skills to manage a research project from inception, necessary regulatory approvals through to implementation, in addition to my mandatory research training, ICH-GCP and Consent.  The timespan of this project bridged major changes to the Health Research Agency (HRA) and GDPR regulations, which I successfully negotiated.  The outputs from this research are currently in press, and have been presented at the British Journal of Anaesthesia Research Forum.
+I have completed a PhD using basic science methods to investigate the release of the peptide nociceptin from immune cells in sepsis.  I gained a variety of technical lab skills during the implementation phase of this project, which latterly won funding from the Royal College of Anaesthetists Ernest Leech Fund, and gained portfolio sponsorship.  As a translational project, this gave me a bridge to clinical research, and the skills to manage a research project from inception, necessary regulatory approvals through to implementation, in addition to my mandatory research training, ICH-GCP and Consent.  The timespan of this project bridged major changes to the Health Research Agency (HRA) and GDPR regulations, which I successfully negotiated.  The outputs from this research are currently in press, and have been presented at the British Journal of Anaesthesia Research Forum.
 
 As an active researcher, I have aided on other clinical trials, including local Clinical Research Network adopted studies, such as the national iHype trial investigating adverse outcomes associated with intraoperative hypotension for which I advised colleagues locally, and collected, screened and input data.
 
 #### Experience
-*	Does the release profile of nociceptin differ in septic patients and healthy individuals? (2015-present)
+*	Does the release profile of nociceptin differ in septic patients and healthy individuals? (2015-2021)
 	- I was awarded the Royal College of Anaesthetists Ernest Leech grant in order to complete this work, which was adopted by the East Midlands Critical Care Research Network, attracting funding and support for the University Hospitals of Leicester NHS trust.  Setting up and running this observational clinical study gave me experience of the NHS research environment, legislation and regulatory controls required.  This work has been presented orally at the British Journal of Anaesthesia Research Forum.
 *	Midlands (East) Research by Critical Care and Anaesthetic Trainees (MERCAT) – iHype (2017)
 	- I contributed to the Intraoperative Hypotension in Elders (iHype) study, collecting and inputting primary data, and providing advice to the local lead trainees.
