@@ -1,5 +1,5 @@
 ---
-title: "A Novel Bioassay to Detect Nociceptin/Orphanin FQ Release from Single Human Polymorphonuclear Cells. (In press)"
+title: "A Novel Bioassay to Detect Nociceptin/Orphanin FQ Release from Single Human Polymorphonuclear Cells."
 collection: publications
 permalink: /publication/2022-05-22-paper-title-number-17
 date: 2022-05-22
