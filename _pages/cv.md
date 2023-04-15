@@ -109,6 +109,8 @@ June 2020-Present: Consultant in Anaesthesia and Intensive Care Medicine, Leices
 
 January 2015-present: Clinical Lecturer in Anaesthesia and Intensive Care, Department of Cardiovascular Sciences, University of Leicester
 
+December 2022-present: Training Programme Director, Acute Care Common Stem - NHS England, Workforce and Training Directorate (East Midlands)
+
 #### Previous Employment
 + February 2020-June 2020: Locum Consultant in Anaesthesia and Intensive Care Medicine, Leicester Royal Infirmary
 + 
