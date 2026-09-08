@@ -111,6 +111,10 @@ January 2015-present: Clinical Lecturer in Anaesthesia and Intensive Care, Depar
 
 December 2022-present: Training Programme Director, Acute Care Common Stem - NHS England, Workforce and Training Directorate (East Midlands)
 
+July 2026-present: Training Programme Director, Stage 1 Intensive Care Medicine - NHS England, Workforce and Training Directorate (East Midlands)
+
+August 2026-present: Examiner, Royal College of Anaesthetists
+
 #### Previous Employment
 + February 2020-June 2020: Locum Consultant in Anaesthesia and Intensive Care Medicine, Leicester Royal Infirmary
 + 
@@ -426,7 +430,7 @@ These projects have given me a track record of delivering work to a deadline and
 
 Medicine is a major part of my life; however my other passions are the outdoors, cooking and exercise.  A keen runner and mountain biker throughout my medical training I have completed several half-marathons, and completed the Virgin Money London Marathon in 2019, raising money for the Stroke Association.
 
-I’m often found in the Peak district, Cannock chase, or around Leicestershire with friends, my partner and our dog, Oscar, whom we rescued and trained 5 years ago.
+I’m often found in the Peak district, Cannock chase, or around Leicestershire with friends.
 
 Living in Aylestone, I am an active member of the Friends of Aylestone Hall gardens, a local group established to maintain the local environment and fund-raise for local charities through events within the gardens and engagement with the local ward committee.
 
